@@ -1,3 +1,6 @@
 [submodule "CA1"]
 	path = CA1
 	url = https://github.com/mohammadsaadati80/Socket-Programming.git
+[submodule "CA2"]
+	path = CA2
+	url = https://github.com/mohammadsaadati80/MultiProcess-Pipes.git
